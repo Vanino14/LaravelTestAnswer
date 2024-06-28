@@ -59,3 +59,4 @@ Akses Frekuensi Terbanyak: Nomor kendaraan dengan frekuensi terbanyak dapat diak
 ```bash
    https://your_url(localhost)/kendaraan/most-frequent
 ```
+# LaravelTestAnswer
